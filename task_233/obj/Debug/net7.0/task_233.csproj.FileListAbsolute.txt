@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\bin\Debug\net7.0\task_233.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\bin\Debug\net7.0\task_233.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\bin\Debug\net7.0\task_233.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\bin\Debug\net7.0\task_233.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\bin\Debug\net7.0\task_233.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\refint\task_233.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\task_233.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\3_domashka\task_233\obj\Debug\net7.0\ref\task_233.dll
